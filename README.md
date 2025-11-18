@@ -12,7 +12,7 @@
 ## 📘 Latest Blog Post
 📌 **How I Started My Coding Journey as a CSE 1st Year Student**  
 👉 *Read here:*  
-https://medium.com/@abir.abdullah/how-i-started-my-coding-journey-as-a-cse-1st-year-student-def602d8eae9
+(How i started my coding journey as a cse 1st year student)[https://medium.com/@abir.abdullah/how-i-started-my-coding-journey-as-a-cse-1st-year-student-def602d8eae9]
 
 ---
 
