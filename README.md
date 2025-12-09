@@ -63,15 +63,14 @@ const abir = {
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abirabdullahs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirabdullahs&layout=compact&langs_count=8&theme=tokyonight"/>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abirabdullahs&show_icons=true&locale=en&layout=compact" height="180px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abirabdullahs&theme=tokyonight" alt="GitHub Streak"/>
-</p>
 
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abirabdullahs&show_icons=true&locale=en" height="180px"/>
+</p>
 ---
 
 ## 🏆 Competitive Programming Profiles
